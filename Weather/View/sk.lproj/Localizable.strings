@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by jassak on 08/12/2020.
+  
+*/
+
+"favoritesTab"="Obľúbené";
+"searchTab"="Vyhľadať";
+"mapTab"="Mapa";
+"standardSwitch"="Štandardná";
+"hybridSwitch"="Hybridná";
+"deleteFav"="Odstrániť z obľúbených";
+"addFav"="Pridať k obľúbeným";
+"feelTemp %@"="Pocitová teplota %@ °C";

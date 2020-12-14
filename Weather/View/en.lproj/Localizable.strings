@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by jassak on 08/12/2020.
+  
+*/
+
+"favoritesTab"="Favorites";
+"searchTab"="Search";
+"mapTab"="Map";
+"standardSwitch"="Standard";
+"hybridSwitch"="Hybrid";
+"deleteFav"="Remove from Favorites";
+"addFav"="Add to Favorites";
+"feelTemp %@"="Feels like %@ °C";
+
